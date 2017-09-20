@@ -1,0 +1,16 @@
+{
+"type": "forge:ore_shapeless",
+  "ingredients": [
+      {
+        "item": "minecraft:nether_wart_block"
+      },
+      {
+        "item": "minecraft:wooden_pressure_plate"
+      }
+    ],
+  "result": {
+    "item": "morebeautifulplates:nether_wart_block_plate"
+,
+"count": 9
+  }
+}

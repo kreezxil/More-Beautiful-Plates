@@ -1,0 +1,17 @@
+{
+"type": "forge:ore_shapeless",
+  "ingredients": [
+      {
+        "item": "minecraft:concrete",
+        "data": 0
+      },
+      {
+        "item": "minecraft:stone_pressure_plate"
+      }
+    ],
+  "result": {
+    "item": "morebeautifulplates:white_concrete_plate"
+,
+"count": 9
+  }
+}

@@ -1,0 +1,17 @@
+{
+"type": "forge:ore_shapeless",
+  "ingredients": [
+      {
+        "item": "minecraft:wool",
+        "data": 10
+      },
+      {
+        "item": "minecraft:wooden_pressure_plate"
+      }
+    ],
+  "result": {
+    "item": "morebeautifulplates:purple_wool_plate"
+,
+"count": 9
+  }
+}

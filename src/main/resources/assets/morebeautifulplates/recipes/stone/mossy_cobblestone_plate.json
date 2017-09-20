@@ -1,0 +1,16 @@
+{
+"type": "forge:ore_shapeless",
+  "ingredients": [
+      {
+        "item": "minecraft:mossy_cobblestone"
+      },
+      {
+        "item": "minecraft:stone_pressure_plate"
+      }
+    ],
+  "result": {
+    "item": "morebeautifulplates:mossy_cobblestone_plate"
+,
+"count": 9
+  }
+}

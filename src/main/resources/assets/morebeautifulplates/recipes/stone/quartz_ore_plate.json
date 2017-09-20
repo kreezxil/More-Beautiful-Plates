@@ -1,0 +1,16 @@
+{
+"type": "forge:ore_shapeless",
+  "ingredients": [
+      {
+        "item": "minecraft:quartz_ore"
+      },
+      {
+        "item": "minecraft:stone_pressure_plate"
+      }
+    ],
+  "result": {
+    "item": "morebeautifulplates:quartz_ore_plate"
+,
+"count": 9
+  }
+}

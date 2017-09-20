@@ -1,0 +1,16 @@
+{
+"type": "forge:ore_shapeless",
+  "ingredients": [
+      {
+        "item": "minecraft:lapis_block"
+      },
+      {
+        "item": "minecraft:light_weighted_pressure_plate"
+      }
+    ],
+  "result": {
+    "item": "morebeautifulplates:lapis_block_plate"
+,
+"count": 9
+  }
+}

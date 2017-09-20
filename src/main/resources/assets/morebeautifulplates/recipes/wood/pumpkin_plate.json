@@ -1,0 +1,16 @@
+{
+"type": "forge:ore_shapeless",
+  "ingredients": [
+      {
+        "item": "minecraft:pumpkin"
+      },
+      {
+        "item": "minecraft:wooden_pressure_plate"
+      }
+    ],
+  "result": {
+    "item": "morebeautifulplates:pumpkin_plate"
+,
+"count": 9
+  }
+}

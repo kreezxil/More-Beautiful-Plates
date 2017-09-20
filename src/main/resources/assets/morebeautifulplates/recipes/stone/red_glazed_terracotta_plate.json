@@ -1,0 +1,16 @@
+{
+"type": "forge:ore_shapeless",
+  "ingredients": [
+      {
+        "item": "minecraft:red_glazed_terracotta"
+      },
+      {
+        "item": "minecraft:stone_pressure_plate"
+      }
+    ],
+  "result": {
+    "item": "morebeautifulplates:red_glazed_terracotta_plate"
+,
+"count": 9
+  }
+}

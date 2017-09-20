@@ -1,0 +1,16 @@
+{
+"type": "forge:ore_shapeless",
+  "ingredients": [
+      {
+        "item": "minecraft:packed_ice"
+      },
+      {
+        "item": "minecraft:wooden_pressure_plate"
+      }
+    ],
+  "result": {
+    "item": "morebeautifulplates:packed_ice_plate"
+,
+"count": 9
+  }
+}

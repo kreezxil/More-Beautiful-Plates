@@ -1,0 +1,16 @@
+{
+"type": "forge:ore_shapeless",
+  "ingredients": [
+      {
+        "item": "minecraft:purpur_pillar"
+      },
+      {
+        "item": "minecraft:stone_pressure_plate"
+      }
+    ],
+  "result": {
+    "item": "morebeautifulplates:purpur_pillar_plate"
+,
+"count": 9
+  }
+}

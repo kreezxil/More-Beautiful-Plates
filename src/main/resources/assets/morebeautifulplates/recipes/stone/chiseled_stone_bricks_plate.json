@@ -1,0 +1,17 @@
+{
+"type": "forge:ore_shapeless",
+  "ingredients": [
+      {
+        "item": "minecraft:stonebrick",
+        "data": 3
+      },
+      {
+        "item": "minecraft:stone_pressure_plate"
+      }
+    ],
+  "result": {
+    "item": "morebeautifulplates:chiseled_stone_bricks_plate"
+,
+"count": 9
+  }
+}

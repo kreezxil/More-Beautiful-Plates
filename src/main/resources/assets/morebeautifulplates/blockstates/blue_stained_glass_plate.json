@@ -1,0 +1,14 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"textures": {
+			"texture": "minecraft:blocks/glass_blue"
+	},
+	"uvlock": true
+	},
+	"variants": {
+"powered=false": { "model": "minecraft:wooden_pressure_plate_up" },
+        "powered=true": { "model": "minecraft:wooden_pressure_plate_down" },
+"inventory": { "model": "minecraft:wooden_pressure_plate_up" }
+}
+}

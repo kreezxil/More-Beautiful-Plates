@@ -1,0 +1,16 @@
+{
+"type": "forge:ore_shapeless",
+  "ingredients": [
+  {
+    "item": "minecraft:stone_pressure_plate"
+    },
+      {
+        "item": "minecraft:end_bricks"
+      }
+    ],
+  "result": {
+    "item": "morebeautifulplates:end_stone_bricks_plate"
+,
+"count": 9
+  }
+}

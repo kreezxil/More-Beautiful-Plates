@@ -1,0 +1,13 @@
+{
+"type": "forge:ore_shaped",
+"pattern": [
+"##"
+],
+"key": {
+"#": { "type": "forge:ore_dict", "ore": "planks" }
+},
+  "result": {
+    "item": "morebeautifulplates:oak_plate",
+    "count": 9
+  }
+}

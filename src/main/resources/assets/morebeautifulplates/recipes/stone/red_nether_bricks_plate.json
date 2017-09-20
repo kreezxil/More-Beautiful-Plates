@@ -1,0 +1,16 @@
+{
+"type": "forge:ore_shapeless",
+  "ingredients": [
+      {
+        "item": "minecraft:red_nether_brick"
+      },
+      {
+      "item" : "minecraft:stone_pressure_plate"
+      }
+    ],
+  "result": {
+    "item": "morebeautifulplates:red_nether_bricks_plate"
+,
+"count": 9
+  }
+}

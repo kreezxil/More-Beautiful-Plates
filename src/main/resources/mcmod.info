@@ -1,0 +1,16 @@
+[
+{
+  "modId": "morebeautifulplates",
+  "name": "More Beautiful Plates",
+  "description": "200+ Vanilla 1.12 Blocks craftable into Pressure Plates!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://minecraft.curseforge.com/projects/more-beautiful-plates",
+  "updateUrl": "",
+  "authorList": ["Kreezxil"],
+  "credits": "MMD on Discord",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

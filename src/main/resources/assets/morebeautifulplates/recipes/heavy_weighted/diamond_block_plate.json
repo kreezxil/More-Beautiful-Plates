@@ -1,0 +1,16 @@
+{
+"type": "forge:ore_shapeless",
+  "ingredients": [
+      {
+        "item": "minecraft:diamond_block"
+      },
+      {
+        "item": "minecraft:heavy_weighted_pressure_plate"
+      }
+    ],
+  "result": {
+    "item": "morebeautifulplates:diamond_block_plate"
+,
+"count": 9
+  }
+}

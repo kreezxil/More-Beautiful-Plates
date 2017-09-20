@@ -1,0 +1,16 @@
+{
+"type": "forge:ore_shapeless",
+  "ingredients": [
+      {
+        "item": "minecraft:redstone_ore"
+      },
+      {
+        "item": "minecraft:light_weighted_pressure_plate"
+      }
+    ],
+  "result": {
+    "item": "morebeautifulplates:redstone_ore_plate"
+,
+"count": 9
+  }
+}

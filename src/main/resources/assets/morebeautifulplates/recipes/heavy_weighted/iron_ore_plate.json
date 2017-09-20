@@ -1,0 +1,16 @@
+{
+"type": "forge:ore_shapeless",
+  "ingredients": [
+      {
+        "item": "minecraft:iron_ore"
+      },
+      {
+        "item": "minecraft:heavy_weighted_pressure_plate"
+      }
+    ],
+  "result": {
+    "item": "morebeautifulplates:iron_ore_plate"
+,
+"count": 9
+  }
+}
